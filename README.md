@@ -70,4 +70,4 @@ Through this project, I gained valuable insights into product design, app develo
 - Designing a product that addresses real societal issues, such as teen health and well-being  
 - Improving skills in UI/UX design, planning app logic, and user motivation techniques  
 - Understanding how technology can positively impact daily habits and encourage better lifestyles  
-- The importance of feedback loops — iterating on prototypes to make the app intuitive and enjoyable  
+- The importance of feedback loops — iterating on prototypes to make the app intuitive and enjoyable.  
